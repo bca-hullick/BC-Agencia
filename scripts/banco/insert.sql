@@ -1,0 +1,1 @@
+INSERT INTO `contato` (`nome_contato`,`email_contato`,`telefone_contato`,`empresa_contato`,`comentarios`) VALUES (:nome,:email,:telefone,:empresa,:comentarios);

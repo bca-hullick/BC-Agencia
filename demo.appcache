@@ -1,0 +1,77 @@
+CACHE MANIFEST
+# 2015-08
+
+# Explicitly cached 'master entries'.
+CACHE:
+video/banner.mp4
+video/video.mov
+img/favicon.png"
+styles/font-awesome.css
+styles/owl.carousel.css
+index.html
+quem-somos.html
+portfolio.html
+contato.html
+styles/slit-slider-style.css
+styles/slit-slider-custom.css
+styles/idangerous.swiper.css
+styles/yamm.css
+styles/animate.css
+styles/prettyPhoto.css
+styles/bootstrap-slider.css
+styles/device-mockups2.css
+styles/bootstrap.min.css
+styles/main.css
+styles/main-responsive.css
+styles/theme_meadow.css
+scripts/vendor/modernizr.js
+styles/styleNoJs.css
+scripts/vendor/jquery.js
+scripts/vendor/queryloader2.min.js
+scripts/vendor/owl.carousel.js
+scripts/vendor/jquery.ba-cond.min.js
+scripts/vendor/jquery.slitslider.js
+scripts/vendor/idangerous.swiper.js
+scripts/vendor/jquery.fitvids.js
+scripts/vendor/jquery.countTo.js
+scripts/vendor/TweenMax.min.js
+scripts/vendor/ScrollToPlugin.min.js
+scripts/vendor/jquery.scrollmagic.min.js
+scripts/vendor/jquery.easypiechart.js
+scripts/vendor/jquery.validate.js
+scripts/vendor/wow.min.js
+scripts/vendor/jquery.placeholder.js
+scripts/vendor/jquery.easing.1.3.min.js
+scripts/vendor/jquery.waitforimages.min.js
+scripts/vendor/jquery.prettyPhoto.js
+scripts/vendor/imagesloaded.pkgd.min.js
+scripts/vendor/isotope.pkgd.min.js
+scripts/vendor/jquery.fillparent.min.js
+scripts/vendor/raphael-min.js
+scripts/vendor/bootstrap.js
+scripts/vendor/jquery.bootstrap-touchspin.min.js
+scripts/vendor/bootstrap-slider.js
+scripts/vendor/bootstrap-rating-input.js
+scripts/vendor/bootstrap-hover-dropdown.min.js
+scripts/jquery.gmap.min.js
+scripts/circle_diagram.js
+scripts/main.js
+    
+
+
+# Resources that require the user to be online.
+NETWORK:
+https://www.facebook.com/bcagtecnologia
+php/formularios/processadorContato.php
+php/formularios/processadorNewsletter.php
+
+
+
+
+# static.html will be served if main.py is inaccessible
+# offline.jpg will be served in place of all images in images/large/
+# offline.html will be served in place of all other .html files
+#FALLBACK:
+#/main.py /static.html
+#images/large/ images/offline.jpg
+#*.html /offline.html

@@ -1,0 +1,25 @@
+[17-Jun-2015 17:12:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'bcbr_agencia'@'localhost' (using password: YES)' in /home/bcbr/public_html/php/formularios/processadorContato.php:11
+Stack trace:
+#0 /home/bcbr/public_html/php/formularios/processadorContato.php(11): PDO->__construct('mysql:host=loca...', 'bcbr_agencia', 'Filipe15')
+#1 {main}
+  thrown in /home/bcbr/public_html/php/formularios/processadorContato.php on line 11
+[17-Jun-2015 17:19:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'bcbr_agencia'@'localhost' (using password: YES)' in /home/bcbr/public_html/php/formularios/processadorContato.php:11
+Stack trace:
+#0 /home/bcbr/public_html/php/formularios/processadorContato.php(11): PDO->__construct('mysql:host=loca...', 'bcbr_agencia', 'Filipe15')
+#1 {main}
+  thrown in /home/bcbr/public_html/php/formularios/processadorContato.php on line 11
+[17-Jun-2015 17:25:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email_contato' in 'field list'' in /home/bcbr/public_html/php/formularios/processadorContato.php:22
+Stack trace:
+#0 /home/bcbr/public_html/php/formularios/processadorContato.php(22): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bcbr/public_html/php/formularios/processadorContato.php on line 22
+[17-Jun-2015 17:25:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email_contato' in 'field list'' in /home/bcbr/public_html/php/formularios/processadorContato.php:22
+Stack trace:
+#0 /home/bcbr/public_html/php/formularios/processadorContato.php(22): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bcbr/public_html/php/formularios/processadorContato.php on line 22
+[17-Jun-2015 17:31:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'nome_contato' cannot be null' in /home/bcbr/public_html/php/formularios/processadorContato.php:22
+Stack trace:
+#0 /home/bcbr/public_html/php/formularios/processadorContato.php(22): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bcbr/public_html/php/formularios/processadorContato.php on line 22

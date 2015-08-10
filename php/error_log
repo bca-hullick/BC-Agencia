@@ -1,0 +1,19 @@
+[16-Jun-2015 16:05:02 UTC] PHP Warning:  include(php/footer2.php): failed to open stream: No such file or directory in /home/bcbr/public_html/php/servicos.html on line 631
+[16-Jun-2015 16:05:02 UTC] PHP Warning:  include(php/footer2.php): failed to open stream: No such file or directory in /home/bcbr/public_html/php/servicos.html on line 631
+[16-Jun-2015 16:05:02 UTC] PHP Warning:  include(): Failed opening 'php/footer2.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bcbr/public_html/php/servicos.html on line 631
+[16-Jun-2015 16:11:05 UTC] PHP Fatal error:  Cannot redeclare getHeader2() (previously declared in /home/bcbr/public_html/php/functions.php:9) in /home/bcbr/public_html/php/functions.php on line 15
+[16-Jun-2015 16:11:38 UTC] PHP Fatal error:  Cannot redeclare getHeader2() (previously declared in /home/bcbr/public_html/php/functions.php:8) in /home/bcbr/public_html/php/functions.php on line 14
+[16-Jun-2015 16:11:42 UTC] PHP Fatal error:  Cannot redeclare getHeader2() (previously declared in /home/bcbr/public_html/php/functions.php:8) in /home/bcbr/public_html/php/functions.php on line 14
+[16-Jun-2015 16:15:16 UTC] PHP Fatal error:  Cannot redeclare getHeader2() (previously declared in /home/bcbr/public_html/php/functions.php:8) in /home/bcbr/public_html/php/functions.php on line 14
+[16-Jun-2015 16:15:30 UTC] PHP Warning:  include(php/footer2.php): failed to open stream: No such file or directory in /home/bcbr/public_html/php/servicos.html on line 631
+[16-Jun-2015 16:15:30 UTC] PHP Warning:  include(php/footer2.php): failed to open stream: No such file or directory in /home/bcbr/public_html/php/servicos.html on line 631
+[16-Jun-2015 16:15:30 UTC] PHP Warning:  include(): Failed opening 'php/footer2.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bcbr/public_html/php/servicos.html on line 631
+[16-Jun-2015 16:18:50 UTC] PHP Warning:  include(php/footer2.php): failed to open stream: No such file or directory in /home/bcbr/public_html/php/servicos.html on line 668
+[16-Jun-2015 16:18:50 UTC] PHP Warning:  include(php/footer2.php): failed to open stream: No such file or directory in /home/bcbr/public_html/php/servicos.html on line 668
+[16-Jun-2015 16:18:50 UTC] PHP Warning:  include(): Failed opening 'php/footer2.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bcbr/public_html/php/servicos.html on line 668
+[16-Jun-2015 16:19:29 UTC] PHP Warning:  include(php/footer2.php): failed to open stream: No such file or directory in /home/bcbr/public_html/php/servicos.html on line 668
+[16-Jun-2015 16:19:29 UTC] PHP Warning:  include(php/footer2.php): failed to open stream: No such file or directory in /home/bcbr/public_html/php/servicos.html on line 668
+[16-Jun-2015 16:19:29 UTC] PHP Warning:  include(): Failed opening 'php/footer2.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bcbr/public_html/php/servicos.html on line 668
+[16-Jun-2015 16:20:07 UTC] PHP Warning:  include(php/footer2.php): failed to open stream: No such file or directory in /home/bcbr/public_html/php/servicos.html on line 668
+[16-Jun-2015 16:20:07 UTC] PHP Warning:  include(php/footer2.php): failed to open stream: No such file or directory in /home/bcbr/public_html/php/servicos.html on line 668
+[16-Jun-2015 16:20:07 UTC] PHP Warning:  include(): Failed opening 'php/footer2.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bcbr/public_html/php/servicos.html on line 668
